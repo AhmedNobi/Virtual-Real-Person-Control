@@ -6,7 +6,7 @@ The video in the center shows the Source driving video. the image on the left si
 
 <p align="center">
   <img src="images/image.gif" />
-</p>
+</p> 
 
 
 We support python3. To install the dependencies run:
